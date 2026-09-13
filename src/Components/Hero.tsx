@@ -2,6 +2,7 @@ import BannerImg from '../assets/banner-stack.png'
 
 const Hero = () => {
     return (
+        // Secound commit Created Hero section
         <section className="container mx-auto px-6 pt-32 pb-16 flex flex-col md:flex-row items-center justify-between gap-12">
 
             <div className="flex-1 max-w-2xl">
